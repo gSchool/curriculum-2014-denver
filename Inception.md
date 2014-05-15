@@ -1,6 +1,6 @@
 # Mission Statement
 
-Translate business requirements into working software that can change.
+### Translate business requirements into working software that can change.
 
 # Student Class Goals
 
