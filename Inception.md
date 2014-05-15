@@ -193,7 +193,7 @@
 
 ### Solidified curriculum for all 24 weeks that can’t change.
 
-### Expectations
+# Expectations
 * Everyone participates in Retros
 * These are important, even if you don’t “get it” immediately
 
