@@ -194,8 +194,9 @@
 ### Solidified curriculum for all 24 weeks that can’t change.
 
 # Expectations
-* Everyone participates in Retros
-* These are important, even if you don’t “get it” immediately
+### Everyone participates in Retros
+
+### These are important, even if you don’t “get it” immediately
 
 ### Every warmup becomes homework if not finished in time.
 
