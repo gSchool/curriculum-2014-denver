@@ -176,7 +176,7 @@
 
 ### A re-usable set of videos that students use as supplemental material
 
-### Make everyone happy
+### Make everyone comfortable
 * things that you think are good for you, may not be
 
 ### 100% student graduation
