@@ -10,6 +10,12 @@
 * [Developer Workflow](goals/developer-workflow.md)
 * [HTML](goals/html.md)
 
-
 ## Schedule
-[Trello Board](https://trello.com/b/1Li5H7lR/gschool-denver-curriculum)
+* [Calendar](http://google.com)
+* [Trello Board](https://trello.com/b/1Li5H7lR/gschool-denver-curriculum)
+
+## Tools
+* [Forum](https://groups.google.com/forum/#!forum/gschool-denver-june-2014)
+* [Students](http://students.gschool.it)
+* [Heroku](http://heroku.com)
+* [GitHub](http://github.com/gSchool)
