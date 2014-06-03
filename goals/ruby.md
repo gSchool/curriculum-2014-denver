@@ -43,4 +43,3 @@ You should be able to write a short Ruby code snippet for each of the following.
 * a lambda that takes two arguments "a" and "b"
 * a stabby lambda that takes two arguments "x" and "y"
 * a regular expression that looks for the word cat anywhere
-
