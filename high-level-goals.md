@@ -1,6 +1,6 @@
-# Mission Statement
+# gSchool Mission Statement
 
-### Translate business requirements into working software that can change.
+### Create the next generation of builders and creators
 
 # Student Class Goals
 
