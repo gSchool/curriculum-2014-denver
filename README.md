@@ -8,6 +8,9 @@ Create the next generation of builders and creators
 ## Goals
 * [High Level Goals](goals/high-level-goals.md)
 
+## Expectations
+* [Class Expectations](expectations.md)
+
 ## Schedule
 * [Calendar](http://google.com)
 * [Trello Board](https://trello.com/b/1Li5H7lR/gschool-denver-curriculum)
