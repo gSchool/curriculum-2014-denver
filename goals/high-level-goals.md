@@ -1,133 +1,29 @@
-# gSchool Mission Statement
-
-### Create the next generation of builders and creators
-
 # Student Class Goals
 
-### Confidence
-* Just do it mentality
-* Don’t be scared of uncertainty, unknown
-* Learning is what it’s all about
-* Not be scared of unknown technology/languages
-* Comfortable in the discomfort zone
-* Okay with not knowing the answer immediately
-* Okay with not perfect but working code
+## Student Goals
+### Soft
+* [Developer Workflow](developer-workflow.md)
+* [Communication](communication.md)
+* [Agile Process](agile-process.md)
+* [Building Identity](building-identity.md)
+* [Confidence](confidence.md)
+* [Testing](testing.md)
+* [Pairing](pairing.md)
+* [Soloing](soloing.md)
+* [Interviewing](interviewing.md)
+* [Learning](learning.md)
 
-### Developer Workflow
-* Effectively work on a co-located team
-* Effectively work on your own
-* Show up every day at 9 leave at 5, work in the class (with some exceptions, on a case by case basis)
-* Handle non-ideal situations - unavailable product owner, weird process, bad code
-* Reading others code
-* Writing well-written, clear code
-* Research effectively
-* Value working software
-
-### Testing
-* Spiking vs. Testing production code
-* Comfortably write a well written, concise test
-* Comfortable with all of the main rspec matchers
-* Understand the difference between test code and production code
-
-### Proficiency/comfort using common command line tools
-* Understand command line jargon
-* can navigate and find things quickly
-* explain how Finder/other tools and terminal relate
-* understand processes and start/stop them
-* understand how to use common command line tools
-
-### Git proficiency
-* Draw and articulate Git flow topology
-* Comfortable with two different git team workflows - commit to master, commit to feature branch/pull request
-* High quality commit messages
-* Well defined, consistent, small commits
-* Push high quality code - code review before pushing
-
-### Proficiency in pairing
-* Empathy for others
-* Working effectively in a team
-* Describing solutions/issues with another
-* Changing how you work to be the most effective with another
-
-### Proficiency in soloing
-* Can research a problem on their own
-* Can find relevant help/documentation/manual
-* Can diagnose a bug, find the source, fix it
-* Implement an entire, fairly difficult, feature on their own
-* Everything in this class should be doable by themselves
-* Not scared to work alone
-
-### Ruby
-* Syntax - constants, variables, methods
-* Enumerable and Hashes
-* Simple Data Structures - Arrays, Hashes, Complex Hashes (deep nesting), params, ActiveRecord collections
-* Understanding of return values and their types, explicit vs implicit return
-* Understanding of input values (parameters) and their types
-* Control flow, if/else/while
-* Classes vs. Objects vs. Constants
-* Inheritance
-* Modules/Mixins
-* Gem/Libraries vs. Ruby core vs. Rails
-
-### Proficient in coming up with algorithms to solve general problems
-* Describing a solution without code in a reasonable amount of time
-* Use pseudo code effectively
-* Communicate solutions without code implementation details
-
-### SQL Databases
-* Comfortable with select, insert, update, delete statements
-* Comfortable with basic join queries
-* Comfortable with indices and their uses
-* Comfortable with basic constraints
-  * Not Null
-  * Uniqueness
-* Articulate the difference between an ORM (ActiveRecord) and raw SQL
-* Ability to model and articulate a domain without code
-
-### HTTP/Web Application Architecture (MVC)
-* Draw and articulate HTTP topology - request/response cycle
-* Know difference between static applications vs dynamic applications
-* Comfortable in two different frameworks (one of them being rails)
-* Know difference between a locally running server and one on a server
-* Able to explain, articulate, and use MVC
-
-### Basic JavaScript
-* Understand asynchronous callbacks
-* Understand communication with a server/API
-* exposure to testing concepts (not at the level of their rspec skills)
-* Understand it’s a full language that solves the same problems as Ruby
-* comfortable with jQuery
-* Understand how to test JavaScript
-
-### Basic CSS
-* Understanding of the box model
-* Understanding fluid layouts/grids and floats
-* Understanding of media queries
-
-### Confident Interview Skills
-* Can whiteboard a solution to a problem
-* Can communicate thoughts effectively
-* Confidence in the unknown
-* Know when to ask for help
-* Comfortable continuing even when help is sparse
-
-### Student are as responsible for their learning as the instructors
-* Participates in retros
-* Helps correct curriculum when necessary
-* Communicates openly about issues/problems
-* Reinforces and encourages good practices/exercises
-* Effectively prioritize
-
-### Students are responsible for the classes success - a team is as strong as their weakest member
-
-### Comfortable speaking to the class
-* Comfortable giving lightening talks
-* Comfortable giving demos
-
-### Students don’t need instructors - you can succeed independently
-* Know how to research effectively
-* Still can make progress when solo
-* Can ask effective questions without wasting time
+### Technical
+* [Ruby](ruby.md)
+* [JavaScript](javascript.md)
+* [Command Line](command-line.md)
+* [Git](git.md)
+* [Algorithms (problem solving)](algorithms.md)
+* [APIs](api.md)
+* [HTML/CSS](html-css.md)
+* [Web Application Architecture](architecture.md)
+* [Databases](databases.md)
+* [Tracker](tracker.md)
 
 # Student Anti-Goals
 ### Dogmatic developers - absolutely fight against this
@@ -141,7 +37,7 @@
 * Be okay with the unknown
 
 ### Security
-* This ia whole domain that could take 6 months to teach, let's not distract from learning how to code
+* This is whole domain that could take 6 months to teach, let's not distract from learning how to code
 
 # Instructor/Program Goals
 ### Support everyone

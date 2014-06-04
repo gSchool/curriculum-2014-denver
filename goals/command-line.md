@@ -1,5 +1,9 @@
-You should be able to answer all of the questions below by using a terminal window:
-
+# Command Line
+* Understand command line jargon
+* can navigate and find things quickly
+* explain how Finder/other tools and terminal relate
+* understand processes and start/stop them
+* understand how to use common command line tools
 * List all the files in your home directory
 * Show me all the files in your home directory
 * Show me all the files in your Downloads folder

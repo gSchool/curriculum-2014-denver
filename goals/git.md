@@ -1,4 +1,9 @@
-This list covers the material you learned in Try Git (http://try.github.io/) and Git Immersion (http://gitimmersion.com/). A great reference for material is the Git Book (http://git-scm.com/book)
+# Git
+* Draw and articulate Git flow topology
+* Comfortable with two different git team workflows - commit to master, commit to feature branch/pull request
+* High quality commit messages
+* Well defined, consistent, small commits
+* Push high quality code - code review before pushing
 
 ## Working solo with git
 * Initialize a git repository in a newly created directory
@@ -24,4 +29,3 @@ This list covers the material you learned in Try Git (http://try.github.io/) and
 * Merging changes from a remote
 * Merge conflicts
 * Rebase vs Merge
-

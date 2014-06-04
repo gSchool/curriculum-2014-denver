@@ -2,13 +2,12 @@
 
 ## Overview
 
+### gSchool Mission Statement
+Create the next generation of builders and creators
+
 ## Goals
 * [High Level Goals](goals/high-level-goals.md)
-* [Ruby](goals/ruby.md)
-* [Command Line](goals/command-line.md)
-* [Git](goals/git.md)
-* [Developer Workflow](goals/developer-workflow.md)
-* [HTML](goals/html.md)
+
 
 ## Schedule
 * [Calendar](http://google.com)
