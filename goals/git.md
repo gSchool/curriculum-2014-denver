@@ -1,6 +1,8 @@
 # Git
 * Draw and articulate Git flow topology
-* Comfortable with two different git team workflows - commit to master, commit to feature branch/pull request
+* Comfortable with two different git team workflows
+  * commit to master
+  * commit to feature branch/pull request
 * High quality commit messages
 * Well defined, consistent, small commits
 * Push high quality code - code review before pushing
@@ -29,3 +31,6 @@
 * Merging changes from a remote
 * Merge conflicts
 * Rebase vs Merge
+* Pull requests
+  * Effectively comment on other code
+  * Can make well-defined small pull requests
