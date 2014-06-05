@@ -1,9 +1,10 @@
 # Learning
+* Strong sense of ownership over their learning
 * Participates in retros
 * Helps correct curriculum when necessary
-* Communicates openly about issues/problems
 * Reinforces and encourages good practices/exercises
-* Effectively prioritize
-* Know how to research effectively
-* Still can make progress when solo
+* Effectively prioritize individual learning
+* Can learn without support
+  * No instructors
+  * No students
 * Can ask effective questions without wasting time
