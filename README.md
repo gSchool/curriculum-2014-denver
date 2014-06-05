@@ -10,6 +10,7 @@ Create the next generation of builders and creators
 
 ## Expectations
 * [Class Expectations](expectations.md)
+* [Code of Conduct](code-of-conduct.md)
 
 ## Schedule
 * [Calendar](http://google.com)
