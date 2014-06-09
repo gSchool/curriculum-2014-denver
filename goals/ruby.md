@@ -1,4 +1,4 @@
-You should be able to write a short Ruby code snippet for each of the following. You can use IRB to make sure that you have valid Ruby code:
+# Ruby
 
 * Syntax - constants, variables, methods
 * Enumerable and Hashes
@@ -19,5 +19,3 @@ You should be able to write a short Ruby code snippet for each of the following.
 * Understand blocks and their uses
   * Can implement a method that yields a block
 * Can refactor code
-  * Complex `if`'s to Classes
-  * Keep logic out of controllers
