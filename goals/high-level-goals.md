@@ -113,11 +113,6 @@
   * Encourage self learning with outside resources
 * We provide the framework not the prescription for success
 
-### Ranking students
-* We don't grade
-* We don't rank
-* Everyone is good in different settings, need to find yours!
-
 ## Things we'll fight against
 ### Dogmatic developers - absolutely fight against this
 * There is no right way to do things
@@ -135,6 +130,12 @@
   * Remember, it’s only 6 months and we have a lot to cover.
   * One week is equivalent to a full college semester (MWF 1 hr lectures a week).
   * 5 days??
+
+### Ranking students
+* We don't grade
+* We don't rank
+* Everyone is good in different settings, need to find yours!
+
 
 ### Solidified curriculum for all 24 weeks that can’t change.
 * We will solicit feedback at every opportunity.
