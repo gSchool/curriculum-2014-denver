@@ -50,7 +50,7 @@
 * Students should be comfortable reading and writing code in front of a class
 * Instill compentent conversations about code
 
-### Everyone get’s a job (success)
+### Everyone get’s a job, regardless of Graduation/Job guarantee
 * Everyone get’s access to same support and resources to find a job
 * Graduation is just a guarantee, doesn't mean you aren't just as important
 
