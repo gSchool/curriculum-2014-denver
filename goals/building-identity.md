@@ -10,10 +10,10 @@
 * Create a personal blog
   * Blog once a week, > 350 words
 * Alternate writing technical and soft posts every other week
-* Publicize their blog posts via Twitter and other social media channels
-* Have a Github profile with their picture and information
+* Publicize your blog posts via Twitter and other social media channels
+* Have a Github profile with your picture and information
 * Create a gravatar (http://en.gravatar.com/)
-* Create a portfolio website that links to their Github, blog, Twitter, and resume
+* Create a portfolio website that links to your Github, blog, Twitter, and resume
 * Create a Linkedin profile, if they do not already have one
 * Fill in as much of the Linkedin profile as possible
 * Add all of your connections and use it as a networking tool to reach out to other developers
