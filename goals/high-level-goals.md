@@ -26,12 +26,6 @@
 * [Tracker](tracker.md)
 
 # Student Anti-Goals
-### Dogmatic developers - absolutely fight against this
-* There is no right way to do things
-* Ruby/Rails is a tool in your toolbelt, not the silver bullet
-* There is no "right" process - although some are most likely better than others
-* Being open to opinions
-
 ### Know everything!
 * You'll never know everything
 * Be okay with the unknown
@@ -124,6 +118,13 @@
 * We don't rank
 * Everyone is good in different settings, need to find yours!
 
+## Things we'll fight against
+### Dogmatic developers - absolutely fight against this
+* There is no right way to do things
+* Ruby/Rails is a tool in your toolbelt, not the silver bullet
+* There is no "right" process - although some are most likely better than others
+* Being open to opinions
+ 
 ### Encourage out of class time or missing class during class hours
 * This is your job. Be here.
 * Everyone shows up at 9 leaves at 5.
