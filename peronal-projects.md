@@ -8,6 +8,7 @@ Demonstrate to potential employers that you understand a broad range of relevant
 
 Here’s a checklist of things that would be impressive to show people.  This could be one app, or several smaller apps.
 
+### Required
 * User authentication (either database authentication like we did with Sinatra, or OAuth (login with Google, Facebook etc…)
 * 2-4 models that interrelate 
 * Something visually flashy - images, maps, a slick javascript widget etc…
@@ -23,6 +24,10 @@ Here’s a checklist of things that would be impressive to show people.  This co
 * It looks decent on a mobile device (I can help you get the iPhone simulator installed on your machines)
 * A realtime component - like an auto-updating page (like tracker has)
 * Open-sourced under the Apache v2 License.
+
+### Potential
+
+* Re-write a sinatra app to a Rails app. 
 
 ## Process
 
