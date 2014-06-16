@@ -94,7 +94,7 @@ Study Blue  - http://www.studyblue.com/
 ## Git
 
 * https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf
-
+* [Git & GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 
 
