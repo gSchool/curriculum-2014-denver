@@ -1,7 +1,8 @@
 # Resources
 This document is a home for resources that you find that may be of interest to your fellow students. Please follow the convention for adding an item. Feel free to create more sections if you see fit.
 
-## Basic Ruby
+## Ruby
+### Basic Ruby
 
 * [Learn to Program by Chris Pine](http://pragprog.com/book/ltp2/learn-to-program). A great book that will get you started with Ruby and programming basics.
 
@@ -29,30 +30,16 @@ This is a great resource to see where your Ruby learning is. You should be able 
 * [Practicing Ruby](https://practicingruby.com/) Many small articles about Ruby. Not presented in any order.
 
 
-## Intermediate Ruby
+* [Online Ruby docs](http://rubydoc.info/) The official documentation for both the Ruby language (http://ruby-doc.org/) and the Gems 
+
+### Data Structures
+
+* [Treehouse on Arrays](http://blog.teamtreehouse.com/ruby-arrays)
+
+### Intermediate Ruby
 
 * [Inheritance and Scope](http://www.eriktrautman.com/posts/ruby-explained-inheritance-and-scope)
 * [How method dispatch works](https://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/)
-
-## Ruby Documentation:
-
-* [Online Ruby docs](http://rubydoc.info/) The official documentation for both the Ruby language (http://ruby-doc.org/) and the Gems 
-
-
-Running documentation locally
-Various Links to blog posts about how to get Ruby and Gem documentation running locally on your machine 
-http://www.rubyinside.com/the-3-step-guide-to-slick-local-documentation-for-all-your-ruby-gems-3760.html
-http://www.jstorimer.com/blogs/workingwithcode/7766081-5-reasons-you-should-use-ri-to-read-ruby-documentation
-
-## Pry
-Pry is a Gem that you can install that is a better version of IRB
-http://www.sitepoint.com/rubyists-time-pry-irb/
-https://github.com/pry/pry/wiki
-http://www.youtube.com/watch?v=D9j_Mf91M0I
-https://github.com/pry/pry-doc
-
-* Dash
-A tool that you can buy (or use the free version) to quickly create and search documentation for any programming language. http://kapeli.com/dash
 
 ## Apprentice/Learning:
 * Apprenticeship Patterns
@@ -70,13 +57,11 @@ https://www.jetbrains.com/ruby/docs/RubyMine_ReferenceCard_Mac.pdf
 
 
 ## Learning
-Study Blue  - http://www.studyblue.com/
-   iOS -          https://itunes.apple.com/app/studyblue/id323887414
-   android -   https://play.google.com/store/apps/details?id=com.studyblue&feature=search_result
+* Study Blue  - http://www.studyblue.com/
 
 ## Git
 
-* https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf
+* [Cheat Sheet](https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf)
 * [Git & GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 
