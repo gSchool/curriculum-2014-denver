@@ -17,6 +17,7 @@ Create the next generation of builders and creators
 * [Trello Board](https://trello.com/b/1Li5H7lR/gschool-denver-curriculum)
 
 ## Tools
+* [Resources](resources.md)
 * [Forum](https://groups.google.com/forum/#!forum/gschool-denver-june-2014)
 * [Students](http://students.gschool.it)
   * [Class Info](http://students.gschool.it/student/info)
