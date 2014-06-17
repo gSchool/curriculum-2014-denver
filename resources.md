@@ -3,58 +3,41 @@ This document is a home for resources that you find that may be of interest to y
 
 ## Basic Ruby
 
-* Learn to Program by Chris Pine
-Description: A great book that will get you started with Ruby and programming basics. Free, online version which is a bit out of date - https://pine.fm/LearnToProgram/. Paid, book that is more up to date - http://pragprog.com/book/ltp2/learn-to-program
+* [Learn to Program by Chris Pine](http://pragprog.com/book/ltp2/learn-to-program). A great book that will get you started with Ruby and programming basics.
 
-* Ruby Koans
-Description: Uses tests to help people learn the basics of Ruby programming
-http://rubykoans.com/
+* [Ruby Koans](http://rubykoans.com/). Uses tests to help people learn the basics of Ruby programming
 
-* Flatirons School Ruby Assessment
-This is a great resource to see where your Ruby learning is. You should be able to answer all of the questions in this assessment, except for the ones from section 7. Self
-https://gist.github.com/aviflombaum/ae78e0559cf51a58aad7
+* [Flatirons School Ruby Assessment](https://gist.github.com/aviflombaum/ae78e0559cf51a58aad7)
+This is a great resource to see where your Ruby learning is. You should be able to answer all of the questions in this assessment, except for the ones from section 7.
 
-* The Pragmatic Programmer’s Guide (to learning ruby)
-Description: From the official ruby documentation site: http://docs.ruby-doc.com/docs/ProgrammingRuby/
 
-* Why’s Poignant Guide to Ruby:
-http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html
-Description: A fun comic that is great! A must read…
+* [The Pragmatic Programmer’s Guide (to learning ruby)](http://docs.ruby-doc.com/docs/ProgrammingRuby/)
 
-* Team Treehouse
-http://teamtreehouse.com/
-Description: Great resource similar to Codecademy, but better! You can do a free trial. 
+* [Why’s Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html)  A fun comic that is great! A must read…
 
-* Learn Ruby the Hard Way
-Description: resource that assumes no prior coding knowledge. Might be worth looking into!
-http://ruby.learncodethehardway.org/
+* [Team Treehouse](http://teamtreehouse.com/) Great resource similar to Codecademy, but better! You can do a free trial. 
 
-* Ruby Monk
-Description: Free interactive ruby lessons. Beginner to Advanced. Lets you run code on the page in the lesson
-https://rubymonk.com/
+* [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/) Resource that assumes no prior coding knowledge. Might be worth looking into!
 
-* Code Wars
-Description: Crowd-sourced language “katas”. Dozens of problems to solve using code, ranked according to difficulty. TDD is built into it. Once you pass the test, you can see others’ results to compare.
-http://www.codewars.com/
 
-* Practicing Ruby
-Many small articles about Ruby. Not presented in any order.
-https://practicingruby.com/
+* [Ruby Monk](https://rubymonk.com/) Free interactive ruby lessons. Beginner to Advanced. Lets you run code on the page in the lesson
+
+
+* [Code Wars](http://www.codewars.com/) Crowd-sourced language “katas”. Dozens of problems to solve using code, ranked according to difficulty. TDD is built into it. Once you pass the test, you can see others’ results to compare.
+
+
+* [Practicing Ruby](https://practicingruby.com/) Many small articles about Ruby. Not presented in any order.
+
 
 ## Intermediate Ruby
 
-* Inheritance and Scope
-http://www.eriktrautman.com/posts/ruby-explained-inheritance-and-scope
-
-* How method dispatch works
-https://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/
-
+* [Inheritance and Scope](http://www.eriktrautman.com/posts/ruby-explained-inheritance-and-scope)
+* [How method dispatch works](https://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/)
 
 ## Ruby Documentation:
 
-* Online Ruby docs
-The official documentation for both the Ruby language (http://ruby-doc.org/) and the Gems 
-(http://rubydoc.info/)
+* [Online Ruby docs](http://rubydoc.info/) The official documentation for both the Ruby language (http://ruby-doc.org/) and the Gems 
+
 
 Running documentation locally
 Various Links to blog posts about how to get Ruby and Gem documentation running locally on your machine 
