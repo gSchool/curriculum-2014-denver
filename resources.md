@@ -32,6 +32,8 @@ This is a great resource to see where your Ruby learning is. You should be able 
 
 * [Online Ruby docs](http://rubydoc.info/) The official documentation for both the Ruby language (http://ruby-doc.org/) and the Gems 
 
+* [Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657?tag=giantrobotssm-20)
+
 ### Data Structures
 
 * [Treehouse on Arrays](http://blog.teamtreehouse.com/ruby-arrays)
