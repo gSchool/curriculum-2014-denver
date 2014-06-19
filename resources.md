@@ -66,6 +66,7 @@ https://www.jetbrains.com/ruby/docs/RubyMine_ReferenceCard_Mac.pdf
 
 * [Git Site](http://git-scm.com)
   * [Videos](http://git-scm.com/videos) 
+* [Awesome interactive git visualization](http://onlywei.github.io/explain-git-with-d3/#)
 * [Cheat Sheet](https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf)
 * [Git & GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
