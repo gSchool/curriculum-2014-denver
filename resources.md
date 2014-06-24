@@ -38,6 +38,10 @@ This is a great resource to see where your Ruby learning is. You should be able 
 
 * [Treehouse on Arrays](http://blog.teamtreehouse.com/ruby-arrays)
 
+### rspec
+
+* [Intro](http://blog.teamtreehouse.com/an-introduction-to-rspec)
+
 ### Intermediate Ruby
 
 * [Inheritance and Scope](http://www.eriktrautman.com/posts/ruby-explained-inheritance-and-scope)
