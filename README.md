@@ -7,7 +7,7 @@ Create the next generation of builders and creators
 
 ## Goals
 * [High Level Goals](goals/high-level-goals.md)
-* [Personal Project](personal-project.md)
+* [Personal Project](personal-projects.md)
 
 ## Expectations
 * [Class Expectations](expectations.md)
