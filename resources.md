@@ -43,7 +43,8 @@ This is a great resource to see where your Ruby learning is. You should be able 
 * [Intro](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 
 ## Testing
-[Red-Green-Refactor Video](https://docs.google.com/a/galvanize.it/file/d/0B143NzKqlpeTS1U3ampYZWd1VGs/edit)
+* [Capybara Cheat Sheet](https://learn.thoughtbot.com/test-driven-rails-resources/capybara.pdf)
+* [Red-Green-Refactor Video](https://docs.google.com/a/galvanize.it/file/d/0B143NzKqlpeTS1U3ampYZWd1VGs/edit)
 
 ### Intermediate Ruby
 
