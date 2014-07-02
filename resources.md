@@ -52,6 +52,10 @@ This is a great resource to see where your Ruby learning is. You should be able 
 * [How method dispatch works](https://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/)
 * [Exercism Rankings](https://docs.google.com/spreadsheets/d/1aoUmyaAIFAjpISShc1mTdjT2Iw0n309JU7X-ncLOKGE/edit?usp=sharing)
 
+### HTTP/web
+
+* [Sessions in Sinatra](https://github.com/gSchool/sessions-with-sinatra-example)
+
 ## Apprentice/Learning:
 * Apprenticeship Patterns
 Description: A great book for students learning code http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382
