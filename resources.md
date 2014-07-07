@@ -38,21 +38,23 @@ This is a great resource to see where your Ruby learning is. You should be able 
 
 * [Treehouse on Arrays](http://blog.teamtreehouse.com/ruby-arrays)
 
-### rspec
-
-* [Intro](http://blog.teamtreehouse.com/an-introduction-to-rspec)
-
-## Testing
-* [Capybara Cheat Sheet](https://learn.thoughtbot.com/test-driven-rails-resources/capybara.pdf)
-* [Red-Green-Refactor Video](https://docs.google.com/a/galvanize.it/file/d/0B143NzKqlpeTS1U3ampYZWd1VGs/edit)
-
 ### Intermediate Ruby
 
 * [Inheritance and Scope](http://www.eriktrautman.com/posts/ruby-explained-inheritance-and-scope)
 * [How method dispatch works](https://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/)
 * [Exercism Rankings](https://docs.google.com/spreadsheets/d/1aoUmyaAIFAjpISShc1mTdjT2Iw0n309JU7X-ncLOKGE/edit?usp=sharing)
 
-### HTTP/web
+## Testing
+* [Red-Green-Refactor Video](https://docs.google.com/a/galvanize.it/file/d/0B143NzKqlpeTS1U3ampYZWd1VGs/edit)
+
+### Capybara
+* [Capybara Cheat Sheet](https://learn.thoughtbot.com/test-driven-rails-resources/capybara.pdf)
+
+### rspec
+
+* [Intro](http://blog.teamtreehouse.com/an-introduction-to-rspec)
+
+## HTTP/web
 
 * [Sessions in Sinatra](https://github.com/gSchool/sessions-with-sinatra-example)
 
