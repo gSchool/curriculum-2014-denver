@@ -44,10 +44,3 @@ I suggest starting with the interesting part of your app (Cameras, Wine etc…) 
 Make a goal to ship twice a week - so two significant deploys to Heroku per week. This will start around week 4-5.
 
 Test drive everything - even the hard parts.  Expect employers to check your github repositories.  This is a selling point.
-
-## CSS
-
-If you choose a framework like Twitter Bootstrap, please spend some time customizing it so it doesn’t look like the thousands and thousands of other sites that are also on Twitter Bootstrap.
-
-If you write your own CSS, be sure to highlight that in your about page, because it’s a plus.
-
