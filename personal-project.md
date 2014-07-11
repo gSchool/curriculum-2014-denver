@@ -9,7 +9,8 @@ Demonstrate to potential employers that you understand a broad range of relevant
 Here’s a checklist of things that would be impressive to show people.  This could be one app, or several smaller apps.
 
 ### Required
-* User authentication 
+* 2 commits per week *at least*
+* User authentication (this can be only an Admin side to put content in)
 * 2-4 models that interrelate 
   * One many to many relationship
   * one belongs to relationship
