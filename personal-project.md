@@ -10,6 +10,7 @@ Here’s a checklist of things that would be impressive to show people.  This co
 
 ### Required
 * 2 commits per week *at least*
+* Must write all CSS, no bootstrap or foundation or bourbon
 * User authentication (this can be only an Admin side to put content in)
 * 2-4 models that interrelate 
   * One many to many relationship
