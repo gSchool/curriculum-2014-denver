@@ -43,6 +43,10 @@ This is a great resource to see where your Ruby learning is. You should be able 
 * [Inheritance and Scope](http://www.eriktrautman.com/posts/ruby-explained-inheritance-and-scope)
 * [How method dispatch works](https://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/)
 * [Exercism Rankings](https://docs.google.com/spreadsheets/d/1aoUmyaAIFAjpISShc1mTdjT2Iw0n309JU7X-ncLOKGE/edit?usp=sharing)
+ 
+### Architecture
+* [Refactoring SQL statements out of Sinatra](http://github.com/gschool/sinatra-with-repository)
+
 
 ## Testing
 * [Red-Green-Refactor Video](https://docs.google.com/a/galvanize.it/file/d/0B143NzKqlpeTS1U3ampYZWd1VGs/edit)
